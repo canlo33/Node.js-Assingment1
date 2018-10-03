@@ -1,0 +1,13 @@
+{
+    "name": "CanLo",
+    "version": "1.0.0",
+    "description": "CanLo-Assignment1",
+    "dependencies": {
+        "nodegit": "^0.22.2",
+        "restify": "4.1.1",
+        "save": "2.3.0"
+    },
+    "author": "CanLo",
+    "private": true,
+    "main": "index.js"
+}
